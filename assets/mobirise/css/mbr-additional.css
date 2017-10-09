@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
 
@@ -585,6 +586,10 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 15px;
 }
+#msg-box7-4g .mbr-section-title,
+#msg-box7-4g .lead p {
+  color: #fff;
+}
 
 #header1-i .mbr-section-lead {
   color: #41a85f;
@@ -1152,9 +1157,13 @@ h6,
 }
 #testimonials2-24 .card-block P {
   text-align: left;
+  color: #565656;
 }
 #testimonials2-24 .card-footer > div {
   color: #0dff00;
+}
+#testimonials2-24 .card-block {
+  text-align: left;
 }
 #ext_menu-25 .hide-buttons .nav-btn {
   display: none !important;
@@ -1626,6 +1635,251 @@ h6,
   color: #f93b0f;
 }
 #contacts4-2g P {
+  color: #c1c1c1;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
+}
+
+#msg-box8-3i .mbr-section-title,
+#msg-box8-3i p {
+  color: #fff;
+}
+#msg-box8-3i .lead I {
+  color: #03ffff;
+}
+#msg-box8-3i .mbr-section-title {
+  color: #03ffff;
+}
+#ext_menu-3k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3k .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3k .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3k .close-icon::before,
+#ext_menu-3k .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3k .link,
+#ext_menu-3k .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3k .link {
+  font-size: 1.25rem;
+}
+#ext_menu-3k .dropdown-item,
+#ext_menu-3k .nav-dropdown-sm .link {
+  font-size: 1.354rem;
+}
+#ext_menu-3k .link:hover,
+#ext_menu-3k .dropdown-item:hover,
+#ext_menu-3k .link:focus,
+#ext_menu-3k .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-3k .link[aria-expanded="true"],
+#ext_menu-3k .dropdown-menu {
+  background: #333333;
+}
+#ext_menu-3k .nav-dropdown-sm .link:focus,
+#ext_menu-3k .nav-dropdown-sm .link:hover,
+#ext_menu-3k .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3k .nav-dropdown-sm .dropdown-item:hover {
+  background: #454545!important;
+}
+#ext_menu-3k .navbar,
+#ext_menu-3k .nav-dropdown-sm,
+#ext_menu-3k .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3k .nav-dropdown-sm .dropdown-menu {
+  background: #4d4d4d;
+}
+#ext_menu-3k .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3k .bg-color.transparent.opened .link:hover,
+#ext_menu-3k .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-3k .link[aria-expanded="true"],
+#ext_menu-3k .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#contacts4-3l I {
+  font-size: 15px;
+  color: #c1c1c1;
+}
+#contacts4-3l STRONG {
+  color: #f93b0f;
+}
+#contacts4-3l P {
+  color: #c1c1c1;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
+}
+
+
+
+#ext_menu-3n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3n .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3n .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3n .close-icon::before,
+#ext_menu-3n .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3n .link,
+#ext_menu-3n .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3n .link {
+  font-size: 1.25rem;
+}
+#ext_menu-3n .dropdown-item,
+#ext_menu-3n .nav-dropdown-sm .link {
+  font-size: 1.354rem;
+}
+#ext_menu-3n .link:hover,
+#ext_menu-3n .dropdown-item:hover,
+#ext_menu-3n .link:focus,
+#ext_menu-3n .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-3n .link[aria-expanded="true"],
+#ext_menu-3n .dropdown-menu {
+  background: #333333;
+}
+#ext_menu-3n .nav-dropdown-sm .link:focus,
+#ext_menu-3n .nav-dropdown-sm .link:hover,
+#ext_menu-3n .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3n .nav-dropdown-sm .dropdown-item:hover {
+  background: #454545!important;
+}
+#ext_menu-3n .navbar,
+#ext_menu-3n .nav-dropdown-sm,
+#ext_menu-3n .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3n .nav-dropdown-sm .dropdown-menu {
+  background: #4d4d4d;
+}
+#ext_menu-3n .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3n .bg-color.transparent.opened .link:hover,
+#ext_menu-3n .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-3n .link[aria-expanded="true"],
+#ext_menu-3n .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#slider-3p H2 {
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#slider-3p P {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: center;
+}
+#features3-3v .btn {
+  font-family: 'Bitter', serif;
+}
+#features3-3v P {
+  color: #cccccc;
+}
+#features3-3v H4 {
+  color: #cccccc;
+}
+#features3-3w P {
+  color: #cccccc;
+}
+#features3-3w H4 {
+  color: #cccccc;
+}
+
+#ext_menu-3n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3n .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3n .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3n .close-icon::before,
+#ext_menu-3n .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3n .link,
+#ext_menu-3n .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3n .link {
+  font-size: 1.25rem;
+}
+#ext_menu-3n .dropdown-item,
+#ext_menu-3n .nav-dropdown-sm .link {
+  font-size: 1.354rem;
+}
+#ext_menu-3n .link:hover,
+#ext_menu-3n .dropdown-item:hover,
+#ext_menu-3n .link:focus,
+#ext_menu-3n .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-3n .link[aria-expanded="true"],
+#ext_menu-3n .dropdown-menu {
+  background: #333333;
+}
+#ext_menu-3n .nav-dropdown-sm .link:focus,
+#ext_menu-3n .nav-dropdown-sm .link:hover,
+#ext_menu-3n .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3n .nav-dropdown-sm .dropdown-item:hover {
+  background: #454545!important;
+}
+#ext_menu-3n .navbar,
+#ext_menu-3n .nav-dropdown-sm,
+#ext_menu-3n .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3n .nav-dropdown-sm .dropdown-menu {
+  background: #4d4d4d;
+}
+#ext_menu-3n .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3n .bg-color.transparent.opened .link:hover,
+#ext_menu-3n .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-3n .link[aria-expanded="true"],
+#ext_menu-3n .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#contacts4-3l I {
+  font-size: 15px;
+  color: #c1c1c1;
+}
+#contacts4-3l STRONG {
+  color: #f93b0f;
+}
+#contacts4-3l P {
   color: #c1c1c1;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 15px;
